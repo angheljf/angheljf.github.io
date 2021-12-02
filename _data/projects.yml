@@ -1,0 +1,20 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Stock Price Predictor
+  gh_user: angheljf
+  repo: Final_Project
+  img: https://uploads.tradestation.com/uploads/stocks-trade-big-name-tech-stocks.jpg
+  desc: My final project for the University of Miami Data Bootcamp. I created a Stock Price Predictor based on linear regression machine learning algorithm. I also developed the dashboard to show different graphs and tables according to the stock ticker and date. You can see the app live <a href="https://my-predictor-am.herokuapp.com/" target="_blank">here.</a>
+
+- name: Bellybutton Biodiversity
+  gh_user: angheljf
+  repo: visualizations-challenge
+  img: https://raw.githubusercontent.com/angheljf/visualizations-challenge/main/Images/bacteria.png
+  desc: Using a Bellybutton Biodiversity dataset, which catalogs the microbes that colonize the human navels, I was able to create an interactive dashboard using JavaScript and Plotly in order to easily explore the dataset. You can see the app live <a href="https://angheljf.github.io/visualizations-challenge/" target="_blank">here.</a>
+
+- name: Pokemon ETL Project
+  gh_user: angheljf
+  repo: ETL-Project
+  img: https://raw.githubusercontent.com/angheljf/ETL-Project/main/Images/pokemon.png
+  desc: The objective of this project was to create an a Pokemon Database that pulls information from different sources by using Python an a relational database like SQL.
